@@ -2,6 +2,8 @@
 # Copied and modified from
 # nixpkgs/nixos/modules/installer/cd-dvd/sd-image-aarch64.nix
 
+#NOTE: its not my config. This variable.
+
 let
   extlinux-conf-builder =
     import <nixpkgs/nixos/modules/system/boot/loader/generic-extlinux-compatible/extlinux-conf-builder.nix> {

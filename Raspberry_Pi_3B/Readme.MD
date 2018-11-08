@@ -5,3 +5,4 @@ $ sudo dd if=sdImage/sd-image/*.img of=/dev/YOUR_SD_CARD status=progress
 
 
 Download http://nixos-arm.dezgeg.me/installer
+  need https://www.cs.helsinki.fi/u/tmtynkky/nixos-arm/installer/sd-image-aarch64-linux.img
